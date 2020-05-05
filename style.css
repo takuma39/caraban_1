@@ -63,7 +63,7 @@ header .headline {
 	color: #fff;
 }
 
-.main {
+main {
 	width: 840px;
 	margin: 0 auto;
 }
@@ -80,13 +80,13 @@ footer {
 
 .blog {
 	width: 600px;
-	height: 1400px;
+	
 	float:left;
 }
 
 .sidebar {
 	width: 240px;
-	height: 1400px;
+	
 	float:left;
 }
 
