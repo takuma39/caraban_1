@@ -27,6 +27,12 @@ header .headline {
 	font-size: 32px;
 }
 
+.social {
+	position: absolute;
+	top: 22px;
+	right: 22px;
+}
+
 .social i {
 	display: inline-block;
 	margin-left: 20px;
